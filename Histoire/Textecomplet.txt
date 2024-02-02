@@ -1,6 +1,9 @@
 🌌 Équipe 3: Exploration des Mondes Féeriques
  
-Chapitre 1: La Forêt d'[Nom d'une forêt féérique]Sur la planète enchantée d'[Nom de la planète féerique], [Nom du personnage principal], un(e) [Adjectif] [Nom de la race féerique], découvre une forêt magique pleine de créatures éthérées et de plantes lumineuses. En se liant d'amitié avec une fée espiègle nommée [Nom de la fée], [Nom du personnage principal] se voit confier la mission de protéger la forêt contre une obscurité mystérieuse.
+Chapitre 1: La Forêt d'[Charleroi] Sur la planète enchantée de [Wallonie], 
+[Jean-Claude], un(e) [sage] [codeur], 
+découvre une forêt magique pleine de créatures éthérées et de plantes lumineuses. 
+En se liant d'amitié avec une fée espiègle nommée [DotNet], [Jean-Claude] se voit confier la mission de protéger la forêt contre une obscurité mystérieuse.
  
 Chapitre 2: La Quête de l'Éclat LunaireGuidé(e) par les indices laissés par la fée, [Nom du personnage principal] embarque dans une quête pour retrouver l'Éclat Lunaire, une gemme magique cachée dans les recoins les plus secrets de la forêt. Sur leur chemin, ils rencontrent des créatures mythiques comme les [Nom des créatures mythiques] qui détiennent des fragments de la carte menant à l'Éclat Lunaire.
  
